@@ -1,0 +1,7 @@
+.menuitem {
+    cursor: pointer;
+}
+.menuitemdisabled {
+    cursor: not-allowed;
+    color: grey;
+}
